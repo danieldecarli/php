@@ -1,3 +1,3 @@
 <?php
-echo("Hello Word ALTERADO NO GIT HUB");
+echo("Hello Word ALTERADO NO GIT HUB fiz nova atualização");
 ?>
